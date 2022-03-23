@@ -1,4 +1,4 @@
-package OOP;
+package OOP.OOP2;
 
 public class MyComplex {
 

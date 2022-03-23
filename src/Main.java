@@ -1,5 +1,8 @@
-import OOP.Rectangle;
-import OOP.*;
+import OOP.OOP1.*;
+import OOP.OOP2.Ball;
+import OOP.OOP2.Container;
+import OOP.OOP2.MyComplex;
+import OOP.OOP2.MyPolynomial;
 
 public class Main {
 

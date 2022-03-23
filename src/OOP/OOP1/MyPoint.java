@@ -1,4 +1,4 @@
-package OOP;
+package OOP.OOP1;
 
 public class MyPoint {
 
